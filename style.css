@@ -1,0 +1,17 @@
+* {
+    
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./imges/bgnoise_lg.png);
+}
+     
+#main-header {
+
+}
+
+.column {
+    column-count: 3;
+}
